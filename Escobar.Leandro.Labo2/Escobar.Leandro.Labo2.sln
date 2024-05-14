@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "La Libreria", "La Libreria\La Libreria.csproj", "{AEA061AB-2D30-4FF8-A65F-10F8C19531EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{84D35101-5E0F-4A13-AB53-A705E639E1E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA061AB-2D30-4FF8-A65F-10F8C19531EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA061AB-2D30-4FF8-A65F-10F8C19531EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA061AB-2D30-4FF8-A65F-10F8C19531EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA061AB-2D30-4FF8-A65F-10F8C19531EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D35101-5E0F-4A13-AB53-A705E639E1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D35101-5E0F-4A13-AB53-A705E639E1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D35101-5E0F-4A13-AB53-A705E639E1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D35101-5E0F-4A13-AB53-A705E639E1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A50A8E-E148-4601-AD6E-F44C39B474B1}
+	EndGlobalSection
+EndGlobal
